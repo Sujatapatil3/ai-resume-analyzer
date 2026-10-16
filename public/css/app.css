@@ -1,0 +1,48 @@
+body {
+    background: #f8f9fa;
+    color: #212529;
+}
+
+.card {
+    border-radius: 16px;
+}
+
+.feature-card {
+    background: #fff;
+    border: 1px solid #e9ecef;
+    border-radius: 16px;
+    padding: 1.25rem;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.result-text {
+    white-space: pre-wrap;
+    font-family: inherit;
+    margin-bottom: 0;
+    color: #495057;
+}
+
+.skill-badge {
+    display: inline-block;
+    padding: .45rem .65rem;
+    margin: 0 .35rem .35rem 0;
+    border-radius: 999px;
+    background: #eef2ff;
+    color: #2947a6;
+    font-size: .85rem;
+}
+
+.empty-state {
+    border: 1px dashed #ced4da;
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: center;
+    background: #fff;
+}
