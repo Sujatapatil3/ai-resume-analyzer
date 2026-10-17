@@ -34,4 +34,4 @@ I built this project to practise web application development, REST APIs, databas
 When the Gemini API is unavailable, the application uses a basic local skill-matching method. The fallback provides rule-based results rather than AI-generated analysis.
 
 ## Developer
-Sujata Patil
+Sujata Patil 2026
