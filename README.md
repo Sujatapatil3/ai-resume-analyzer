@@ -27,6 +27,15 @@ This is a web application that helps job seekers compare their resume with a job
 4. View the match percentage, skills, and suggestions.
 5. View previous analyses in the history section.
 
+
+## Screenshots
+
+### Home Page
+![AI Resume Analyzer Home Page]
+
+### Analysis Results
+![Resume Analysis Results]
+
 ## Project Purpose
 I built this project to practise web application development, REST APIs, database operations, authentication, and AI API integration.
 
